@@ -1,0 +1,4 @@
+{
+  "name": "Sensor Data Dashboard",
+  "description": "A dynamic sensor data dashboard that fetches and visualizes live temperature and humidity readings. It features KPI cards, gauges, and historical charts to monitor environmental conditions in real-time."
+}
